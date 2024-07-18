@@ -25,12 +25,12 @@ cd calculus
 Calculate the perimeter of an ellipse using various methods:
 
 ```bash
-python Ellipse_Perimeter.ipynb
+Ellipse_Perimeter.ipynb
 ```
 
 ### Gradient_Descent
 
-Run the gradient descent optimization script:
+Run the gradient descent optimization notebook:
 
 ```bash
 python Gradient_Descent.ipynb
