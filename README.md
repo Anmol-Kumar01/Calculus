@@ -14,15 +14,8 @@ Calculus is a collection of Python scripts that cover various mathematical topic
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/calculus.git
+git clone https://github.com/Anmol-Kumar01/calculus.git
 cd calculus
-```
-
-Create and activate a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
 ## Usage
