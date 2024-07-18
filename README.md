@@ -25,12 +25,6 @@ python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### Ellipse_Perimeter
@@ -38,7 +32,7 @@ pip install -r requirements.txt
 Calculate the perimeter of an ellipse using various methods:
 
 ```bash
-python Ellipse_Perimeter.py
+python Ellipse_Perimeter.ipynb
 ```
 
 ### Gradient_Descent
@@ -46,7 +40,7 @@ python Ellipse_Perimeter.py
 Run the gradient descent optimization script:
 
 ```bash
-python Gradient_Descent.py
+python Gradient_Descent.ipynb
 ```
 
 ### Linear_Regression
@@ -54,7 +48,7 @@ python Gradient_Descent.py
 Perform linear regression analysis:
 
 ```bash
-python Linear_Regression.py
+python Linear_Regression.ipynb
 ```
 
 ### Damped Analysis
@@ -62,7 +56,7 @@ python Linear_Regression.py
 Analyze damped oscillations:
 
 ```bash
-python Damped_Analysis.py
+python Damped_Analysis.ipynb
 ```
 
 ## Applications and Brief Introduction
@@ -95,11 +89,10 @@ python Damped_Analysis.py
 
 ```
 calculus/
-├── Ellipse_Perimeter.py
-├── Gradient_Descent.py
-├── Linear_Regression.py
-├── Damped_Analysis.py
-├── requirements.txt
+├── Ellipse_Perimeter.ipynb
+├── Gradient_Descent.ipynb
+├── Linear_Regression.ipynb
+├── Damped_Analysis.ipynb
 └── README.md
 ```
 
